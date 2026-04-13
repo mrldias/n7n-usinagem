@@ -91,8 +91,10 @@ n7n/
 
 ## Deploy
 
-- **Repositório:** GitHub — a criar
-- **Hospedagem:** Cloudflare Pages (deploy automático via push)
-- **Branch de produção:** `main`
+- **Repositório:** https://github.com/mrldias/n7n-usinagem
+- **Hospedagem:** Cloudflare Pages — conta `marcosdias@transformahub.com.br`
+- **URL do site:** https://n7n-usinagem.pages.dev
+- **Branch de produção:** `master`
 - **Comando de build:** *(nenhum — HTML estático)*
 - **Diretório de saída:** `/` (raiz)
+- **Deploy automático:** sim — qualquer `git push` na branch `master` publica em ~30s
